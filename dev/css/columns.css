@@ -4,10 +4,6 @@
     text-align: center;
     font-size: 0;
 }
-.two-columns, .three-columns, .four-columns {
-    padding-left: 10px;
-    padding-right: 10px;
-}
 .column {
     width: 100%;
     display: inline-block;
@@ -16,14 +12,14 @@
     text-align: left;
 }
 .one-column .column {
-    max-width: 600px;
+    max-width: 900px;
 }
 .two-columns .column {
-    max-width: 290px;
+    max-width: 440px;
 }
 .three-columns .column {
-    max-width: 193px;
+    max-width: 293px;
 }
 .four-columns .column {
-    max-width: 290px;
+    max-width: 440px;
 }
